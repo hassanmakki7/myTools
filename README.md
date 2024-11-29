@@ -3,7 +3,7 @@ newSubs used to subdomain enumeration by using [subfinder,assets-finder,findomai
 ## usage
 ```
 chmod +x newsubs.sh
-./newsubs,sh -d domain.com -o file-of-old-subdomains.txt
+./newsubs.sh -d domain.com -o file-of-old-subdomains.txt
 ```
 to use it every where type this command
 ```
